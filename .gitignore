@@ -77,3 +77,6 @@ graphify-out/
 # Caches Python des scripts de generation (maquette, icones)
 __pycache__/
 *.py[cod]
+
+# Document .pen intermediaire : regenerable par scripts/gen_pen.py, 444 ko inutiles
+design-system/bacchus/maquette-bacchus.pen
