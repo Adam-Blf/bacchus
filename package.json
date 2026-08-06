@@ -24,7 +24,7 @@
     "@sentry/react": "^10.69.0",
     "clsx": "^2.1.1",
     "framer-motion": "^12.26.1",
-    "lucide-react": "^0.562.0",
+    "lucide-react": "^1.28.0",
     "posthog-js": "^1.409.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
